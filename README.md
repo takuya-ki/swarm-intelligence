@@ -1,51 +1,33 @@
 # various-pso-examples
 
-![Badge Status](https://ci-as-a-service)
-
-OverviewOverviewOverview
+easy PSO examples.
 
 ## Description
 
-PSO-exs is a examples of various Particle Swarm Optimization algorithm.
+This is a examples of various Particle Swarm Optimization algorithms.
+(https://en.wikipedia.org/wiki/Particle_swarm_optimization)  
+For Adaptive PSO with opso and epso, see [here](http://lab.cntl.kyutech.ac.jp/~nishida/paper/2011/131_1642.pdf).
 
-***DEMO:***
-
-![Demo](https://image-url.gif)
 
 ## Features
 
-- Awesome function
-- Awesome UI
-- ...
+- Easy Optimization algorithms
+- Offline use: pso(simple-pso)
+- Online use: opso/epso
 
-For more information, see `awesome-tool --help`.
+## Installation/Requirement
 
-## Requirement
-
-- Requirement
-- Requirement
-- Requirement
+- boost 1.61.0
+- g++ 4.9.4 (g++ -dumpversion)
+- C++11
 
 ## Usage
 
-1. Usage
-2. Usage
-3. Usage
+In case of pso:  
+1. design fitness function according to your purpose．  
+2. `$ make pso`  
+3. `$ ./pso`  
 
-## Installation
+## Author/Cntributers
 
-    $ git clone https://github.com/b4b4r07/awesome-tool
-
-## Anything Else
-
-AnythingAnythingAnything
-AnythingAnythingAnything
-AnythingAnythingAnything
-
-## Author
-
-[@b4b4r07](https://twitter.com/b4b4r07)
-
-## License
-
-[MIT](http://b4b4r07.mit-license.org)
+qiita: [@takuya-ki](http://qiita.com/takuya-ki)
