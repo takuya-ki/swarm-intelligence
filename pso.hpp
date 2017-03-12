@@ -4,6 +4,8 @@
 #include <cmath>        // abs() for float, and fabs()
 #include <math.h>       // pow()
 #include <random>
+#include <climits>
+
 #include <boost/numeric/ublas/vector.hpp>
 #include <boost/numeric/ublas/matrix.hpp>
 #include <boost/numeric/ublas/io.hpp>
