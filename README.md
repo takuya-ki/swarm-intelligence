@@ -17,6 +17,9 @@ For Adaptive PSO with opso and epso, see [here](http://lab.cntl.kyutech.ac.jp/~n
 
 ## Installation/Requirement
 
+	$ git clone git@github.com:takuya-ki/various-pso-examples.git
+	$ cd car-simulation
+
 - boost 1.61.0
 - g++ 4.9.4 (g++ -dumpversion)
 - C++11
@@ -28,7 +31,7 @@ In case of pso:
 2. `$ make pso`  
 3. `$ ./pso`  
 
-## Author/Cntributers
+## Author/Contributors
 
 qiita: [@takuya-ki](http://qiita.com/takuya-ki)
 
