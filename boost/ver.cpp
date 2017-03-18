@@ -19,8 +19,10 @@ int main()
     else if( __cplusplus == 199711L ) std::cout << "C++98\n" ;
     else std::cout << "pre-standard C++\n" ;
 
-    Matrix<float, 4, 3> m;
-    std::cout << "Rows:" << m.rows() << " Cols:" << m.cols() << std::endl;
+    int world = EIGEN_WORLD_VERSION;
+    int major_ = EIGEN_MAJOR_VERSION;
+    int minor_ = EIGEN_MINOR_VERSION;
+    std::cout << "eigen version " << world << "." << major_ << "." << minor_ << std::endl;
 
     return 0;
 }

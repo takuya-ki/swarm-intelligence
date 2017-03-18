@@ -18,8 +18,10 @@ For Adaptive PSO with opso and epso, see [here](http://lab.cntl.kyutech.ac.jp/~n
 ## Installation/Requirement
 
 	$ git clone git@github.com:takuya-ki/various-pso-examples.git
-	$ cd car-simulation
+	$ cd various-pso-examples
+	$ cd eigen (or boost)
 
+- eigen 3.3.3
 - boost 1.61.0
 - g++ 4.9.4 (g++ -dumpversion)
 - C++11

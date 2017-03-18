@@ -31,16 +31,11 @@ class Particles{
 public:
 
   // 拡張性を考えてすべてmatrixで定義
-  dmatrix position = dmatrix(numberParticle,Dim);
-  dmatrix fitness = dmatrix(1,numberParticle);
-  dmatrix velocity = dmatrix(numberParticle,Dim);
-  dmatrix bestPosition = dmatrix(numberParticle,Dim);
-  dmatrix bestFitness = dmatrix(1,numberParticle);
-  //dmatrix position[numberParticle][Dim];         // 位置
-  // dmatrix fitness[1][numberParticle];            // 位置の解がどの程度最適解に近いかを示す尺度
-  // dmatrix velocity[numberParticle][Dim];        // 速度
-  // dmatrix bestPosition[numberParticle][Dim];    // これまで検出した中で最適な粒子の位置
-  // dmatrix bestFitness[1][numberParticle];       // 最適位置に関する尺度
+  dmatrix position = dmatrix(numberParticle,Dim);     // 位置
+  dmatrix fitness = dmatrix(1,numberParticle);        // 位置の解がどの程度最適解に近いかを示す尺度
+  dmatrix velocity = dmatrix(numberParticle,Dim);     // 速度
+  dmatrix bestPosition = dmatrix(numberParticle,Dim); // これまで検出した中で最適な粒子の位置
+  dmatrix bestFitness = dmatrix(1,numberParticle);    // 最適位置に関する尺度
 
   void initializeParticles();
 };
