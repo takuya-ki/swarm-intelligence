@@ -12,7 +12,7 @@ class PSOclass:
             ### Information each particle ###
             self.position = np.zeros(set_dim)
             self.velocity = np.zeros(set_dim)
-            self.fitness = 3.0 + pow(self.position[0],2) + pow(self.position[1],2)
+            self.update_fitness()
             self.bestPosition = np.zeros(set_dim)
             self.bestFitness = sys.maxsize
 
