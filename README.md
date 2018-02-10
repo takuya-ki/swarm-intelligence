@@ -4,7 +4,7 @@ This is easy swarm intelligence algorithm's examples.
 
 ## Description
 
-This is a examples of various swarm intelligence algorithm.
+This is examples of various swarm intelligence algorithm.
 
 - [pso](https://en.wikipedia.org/wiki/Particle_swarm_optimization)  
 For Adaptive PSO with opso and epso, see [here](http://lab.cntl.kyutech.ac.jp/~nishida/paper/2011/131_1642.pdf).
