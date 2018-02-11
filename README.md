@@ -21,9 +21,9 @@ For Adaptive PSO with opso and epso, see [here](http://lab.cntl.kyutech.ac.jp/~n
 	$ git clone git@github.com:takuya-ki/swarm-intelligence-examples.git
 	$ cd swarm-intelligence-examples/eigen (or boost)
 
-- eigen3.3.3
-- boost1.61.0
-- g++4.9.4 (g++ -dumpversion)
+- eigen 3.3.3
+- boost 1.61.0
+- g++ 4.9.4 (g++ -dumpversion)
 - c++11
 
 ### python
