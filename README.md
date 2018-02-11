@@ -46,7 +46,7 @@ For Adaptive PSO with opso and epso, see [here](http://lab.cntl.kyutech.ac.jp/~n
 
 ## Author/Contributors
 
-homepage: [Takuya Kiyokawa](https://takuya-ki.github.io/)
+[TAKUYA KIYOKAWA](https://takuya-ki.github.io/)
 
 ## License
 
