@@ -1,6 +1,6 @@
 # swarm-intelligence-examples
 
-This is easy swarm intelligence algorithm's examples.
+This is examples of easy swarm intelligence algorithm.
 
 ## Description
 
@@ -46,7 +46,7 @@ For Adaptive PSO with opso and epso, see [here](http://lab.cntl.kyutech.ac.jp/~n
 
 ## Author/Contributors
 
-qiita: [@takuya-ki](http://qiita.com/takuya-ki)
+homepage: [Takuya Kiyokawa](https://takuya-ki.github.io/)
 
 ## License
 
