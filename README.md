@@ -30,8 +30,7 @@ For Adaptive PSO with opso and epso, see [here](http://lab.cntl.kyutech.ac.jp/~n
 	$ git clone git@github.com:takuya-ki/swarm-intelligence-examples.git
 	$ cd swarm-intelligence-examples/Python
 
-- python3.0 or above
-- numpy
+- python 3.0.0 or above
 
 ## Usage
 
