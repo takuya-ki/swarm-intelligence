@@ -1,13 +1,13 @@
 # swarm-intelligence-examples
 
-This is examples of easy swarm intelligence algorithm.
+Examples of easy swarm intelligence algorithm.
 
 ## Description
 
-This is examples of various swarm intelligence algorithm.
+Examples of various swarm intelligence algorithms.
 
-- [pso](https://en.wikipedia.org/wiki/Particle_swarm_optimization)  
-For Adaptive PSO with opso and epso, see [here](http://lab.cntl.kyutech.ac.jp/~nishida/paper/2011/131_1642.pdf).
+- [pso](https://en.wikipedia.org/wiki/Particle_swarm_optimization): particle swarm optimization  
+For adaptive pso with opso and epso, see this [reference](http://lab.cntl.kyutech.ac.jp/~nishida/paper/2011/131_1642.pdf).
 
 ## Features
 
