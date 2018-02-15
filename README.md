@@ -34,12 +34,12 @@ For adaptive pso with opso and epso, see this [reference](http://lab.cntl.kyutec
 
 ## Usage
 
-- pso(c++):  
+- pso (c++):  
 1. design fitness function according to your purpose
 2. `$ make pso`
 3. `$ ./pso`
 
-- pso(python)
+- pso (python)
 1. design fitness function according to your purpose
 2. `$ python pso.py`
 
