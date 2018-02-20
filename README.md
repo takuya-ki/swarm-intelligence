@@ -1,4 +1,4 @@
-# swarm-intelligence-examples
+# swarm-intelligence
 
 Examples of easy swarm intelligence algorithm.
 
