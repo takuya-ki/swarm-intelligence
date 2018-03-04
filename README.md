@@ -18,8 +18,8 @@ For adaptive pso with opso and epso, see this [reference](http://lab.cntl.kyutec
 ## Installation/Requirement
 
 ### c++
-	$ git clone git@github.com:takuya-ki/swarm-intelligence-examples.git
-	$ cd swarm-intelligence-examples/eigen (or boost)
+	$ git clone git@github.com:takuya-ki/swarm-intelligence.git
+	$ cd swarm-intelligence/eigen (or boost)
 
 - eigen 3.3.3
 - boost 1.61.0
@@ -27,8 +27,8 @@ For adaptive pso with opso and epso, see this [reference](http://lab.cntl.kyutec
 - c++11
 
 ### python
-	$ git clone git@github.com:takuya-ki/swarm-intelligence-examples.git
-	$ cd swarm-intelligence-examples/Python
+	$ git clone git@github.com:takuya-ki/swarm-intelligence.git
+	$ cd swarm-intelligence/Python
 
 - python 3.0.0 or above
 
