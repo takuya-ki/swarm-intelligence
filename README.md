@@ -28,7 +28,7 @@ For adaptive pso with opso and epso, see this [reference](http://lab.cntl.kyutec
 
 ### python
 	$ git clone git@github.com:takuya-ki/swarm-intelligence.git
-	$ cd swarm-intelligence/Python
+	$ cd swarm-intelligence/python
 
 - python 3.0.0 or above
 
